@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. branch in prod
+          Edit <code>src/App.js</code> and save to reload. branch in prod - fixed webhook url
         </p>
         <a
           className="App-link"
